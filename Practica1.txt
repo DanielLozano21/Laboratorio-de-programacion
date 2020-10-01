@@ -1,0 +1,5 @@
+curl  --url 'https://www.virustotal.com/vtapi/v2/file/scan'   --form 'apikey=1172799d2b0dec58aae27b762fd549961854e1947ce7967e21791219f12aa5f0'   --form 'file=@/Users/Daniel/PycharmProjects/Programa1/arreglo.py'
+
+curl -v --request POST  --url 'https://www.virustotal.com/vtapi/v2/comments/put'  -d apikey=$1172799d2b0dec58aae27b762fd549961854e1947ce7967e21791219f12aa5f0  -d 'comment=#malware'  -d resource=8ebc97e05c8e1073bda2efb6f4d00ad7e789260afa2c276f0c72740b838a0a93
+
+curl --request POST   --url 'https://www.virustotal.com/vtapi/v2/url/scan' --data 'apikey=1172799d2b0dec58aae27b762fd549961854e1947ce7967e21791219f12aa5f0'  --data 'url=https://www.youtube.com/'
