@@ -30,7 +30,7 @@ def sendmail(a, x):
     msg['From'] = data['user']
 
     msg['To'] = str(a)
-    msg['Subject'] = 'Correo mandado por python'
+    msg['Subject'] = 'Que rolloo'
 
     msg.attach(MIMEText(message, 'plain'))
 
