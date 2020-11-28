@@ -1,0 +1,435 @@
+
+Configuraci¢n IP de Windows
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : safebrowsing.googleapis.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.10
+
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : safebrowsing.googleapis.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 3
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80a::200a
+
+
+    r6---sn-uvu5a2a5t-hutl.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r6---sn-uvu5a2a5t-hutl.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 279
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r6.sn-uvu5a2a5t-hutl.googlevideo.com
+
+
+    Nombre de registro  . : r6.sn-uvu5a2a5t-hutl.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 279
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 189.203.167.145
+
+
+    r6---sn-uvu5a2a5t-hutl.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r6---sn-uvu5a2a5t-hutl.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 279
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r6.sn-uvu5a2a5t-hutl.googlevideo.com
+
+
+    Nombre de registro  . : r6.sn-uvu5a2a5t-hutl.googlevideo.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 279
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:2f0:401f:5::11
+
+
+    music.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : music.youtube.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : youtube-ui.l.google.com
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.238
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.193.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.217.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.5.174
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.14
+
+
+    music.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : music.youtube.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 91
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : youtube-ui.l.google.com
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 91
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80a::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 91
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80b::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 91
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:805::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 91
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:808::200e
+
+
+    activity.windows.com
+    ----------------------------------------
+    Nombre de registro  . : activity.windows.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : atm-migration.activity.windows.com.akadns.net
+
+
+    Nombre de registro  . : atm-migration.activity.windows.com.akadns.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : activity-geo.trafficmanager.net
+
+
+    Nombre de registro  . : activity-geo.trafficmanager.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.167.253.237
+
+
+    array616.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array616.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2524
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 20.54.25.4
+
+
+    streamusea1su031.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : streamusea1su031.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 550
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : streamusea1su031.ec.azureedge.net
+
+
+    Nombre de registro  . : streamusea1su031.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 550
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 550
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    streamusea1su031.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : streamusea1su031.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 550
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : streamusea1su031.ec.azureedge.net
+
+
+    Nombre de registro  . : streamusea1su031.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 550
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 550
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    beacons.gcp.gvt2.com
+    ----------------------------------------
+    Nombre de registro  . : beacons.gcp.gvt2.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 77
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : beacons-handoff.gcp.gvt2.com
+
+
+    Nombre de registro  . : beacons-handoff.gcp.gvt2.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 77
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.9.131
+
+
+    beacons.gcp.gvt2.com
+    ----------------------------------------
+    Nombre de registro  . : beacons.gcp.gvt2.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 77
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : beacons-handoff.gcp.gvt2.com
+
+
+    Nombre de registro  . : beacons-handoff.gcp.gvt2.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 77
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4000:814::2003
+
+
+    array603.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array603.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2943
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 51.104.162.50
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 897
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 897
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    amp.azure.net
+    ----------------------------------------
+    Nombre de registro  . : amp.azure.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 504
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : 160c1.wpc.azureedge.net
+
+
+    Nombre de registro  . : 160c1.wpc.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 504
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs22.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs22.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 504
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 152.199.4.33
+
+
+    clients4.google.com
+    ----------------------------------------
+    Nombre de registro  . : clients4.google.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 11
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : clients.l.google.com
+
+
+    Nombre de registro  . : clients.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 11
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.217.14
+
+
+    clients4.google.com
+    ----------------------------------------
+    Nombre de registro  . : clients4.google.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : clients.l.google.com
+
+
+    Nombre de registro  . : clients.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 19
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80b::200e
+
+
+    streamusea1su011.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : streamusea1su011.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 372
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : streamusea1su011.ec.azureedge.net
+
+
+    Nombre de registro  . : streamusea1su011.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 372
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 372
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    streamusea1su011.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : streamusea1su011.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 372
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : streamusea1su011.ec.azureedge.net
+
+
+    Nombre de registro  . : streamusea1su011.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 372
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 372
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    www.facebook.com
+    ----------------------------------------
+    Nombre de registro  . : www.facebook.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 11
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : star-mini.c10r.facebook.com
+
+
+    Nombre de registro  . : star-mini.c10r.facebook.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 11
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a03:2880:f1ff:83:face:b00c:0:25de
+
+
